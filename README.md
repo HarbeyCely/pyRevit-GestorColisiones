@@ -1,1 +1,0 @@
-# pyRevit-GestorColisiones
