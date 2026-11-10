@@ -123,3 +123,5 @@ El esquema agrupa las resoluciones asegurando que los informes no se mezclen:
 - **Los botones de la ventana no responden:** Revisa la línea de estado inferior de la ventana. Si se queda colgada en "Procesando...", cierra la ventana, ejecuta un *Reload* en la pestaña de pyRevit y vuelve a lanzar la herramienta.
 - **No se ven los colores de inspección:** Haz clic en el botón "Quitar selección" en la interfaz. El resaltado azul de selección predeterminado de Revit a menudo se superpone y oculta los colores de advertencia.
 - **"Informe no reconocido":** El archivo HTML exportado no contiene el texto requerido (`id NNNNNN`) en la descripción de los elementos. Vuelve a exportarlo asegurándote de usar estrictamente la herramienta *Interference Check* nativa de Revit.
+
+<!-- revit no permite hacer mas de un versus, se podria agregar la opcion de hacer comparaciones multiples -->
