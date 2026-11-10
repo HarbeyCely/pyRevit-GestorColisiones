@@ -125,3 +125,4 @@ El esquema agrupa las resoluciones asegurando que los informes no se mezclen:
 - **"Informe no reconocido":** El archivo HTML exportado no contiene el texto requerido (`id NNNNNN`) en la descripción de los elementos. Vuelve a exportarlo asegurándote de usar estrictamente la herramienta *Interference Check* nativa de Revit.
 
 <!-- revit no permite hacer mas de un versus, se podria agregar la opcion de hacer comparaciones multiples -->
+<!-- filtrar por pisos -->
